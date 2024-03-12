@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Doulingo Goal Page** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='Screenshoot_Doulingo.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
@@ -59,9 +59,8 @@ GIF created with **Kap**
 
 Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
 
-It is for an app that ** mimics the Duolingo goal page, enabling me to engage in practice sessions focusing on the following concepts:Crafting my own Android application layouts from the ground up,Employing ConstraintLayout, TextView, and ImageView components Customizing view attributes using XML attributes**.
+It is for an app that **mimics the Duolingo goal page, enabling me to engage in practice sessions focusing on the following concepts:Crafting my own Android application layouts from the ground up,Employing ConstraintLayout, TextView, and ImageView components Customizing view attributes using XML attributes**.
 
-<img src='Screenshoot_Doulingo.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
