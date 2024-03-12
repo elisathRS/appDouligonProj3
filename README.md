@@ -2,7 +2,7 @@
 
 # AND101 Project 3 - Animals Doulingo Goal Page
 
-Submitted by: **Your Name Here**
+Submitted by: **Mary Ramirez**
 
 Time spent: **4** hours spent in total
 
