@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **Animals Doulingo Goal Page** app:
+I have chosen to duplicate the following layout from the **Doulingo Goal Page** app:
 
 <img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
@@ -61,7 +61,7 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that ** mimics the Duolingo goal page, enabling me to engage in practice sessions focusing on the following concepts:Crafting my own Android application layouts from the ground up,Employing ConstraintLayout, TextView, and ImageView components Customizing view attributes using XML attributes**.
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='Screenshoot_Doulingo.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
